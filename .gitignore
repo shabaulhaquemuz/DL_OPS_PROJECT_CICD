@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+
+# Artifacts
+artifacts/
+
+# Logs
+logs/
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
